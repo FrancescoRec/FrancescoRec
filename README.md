@@ -1,4 +1,4 @@
-## Hello I'm francesco D'Aleo
+## Hello I'm Francesco D'Aleo
   - I'm a molecular and cellular biologist
   - Currently I'm studying for a Master in Data Science and A.I. in Barcelona.
 
