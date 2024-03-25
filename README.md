@@ -18,8 +18,11 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 #### Web scraping
-  ![Selenium](https://a11ybadges.com/badge?logo=selenium)
+![Selenium](https://a11ybadges.com/badge?logo=selenium)
 #### Container
 ![Docker](https://a11ybadges.com/badge?logo=docker)
+#### Pipeline
+![Apache Airflow](https://a11ybadges.com/badge?logo=apacheairflow)
+
   - Agile frameworks: Scrum and Kanban
 
