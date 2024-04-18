@@ -29,8 +29,6 @@
 #### Data Visualization tools
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-4ea94b?style=for-the-badge&logo=seaborn&logoColor=white)
 ![GraphPad](https://img.shields.io/badge/GraphPad-43B02A?style=for-the-badge&logo=graphpad&logoColor=white)
 
 #### Containers & Pipeline
