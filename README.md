@@ -1,15 +1,15 @@
 # Hello, I'm Francesco D'Aleo
 ## Molecular and Cellular Biologist :dna: :petri_dish:
-## Python Developer :computer:
+## Software Developer and Data Scientist :computer: :chart_with_upwards_trend:
 
+#### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### Web Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-#### Web Scraping
-![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-4ea94b?style=for-the-badge&logo=beautifulsoup&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 #### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -28,6 +28,10 @@
 #### Cloud Technologies
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+#### Web Scraping
+![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-4ea94b?style=for-the-badge&logo=beautifulsoup&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
 #### Data Visualization tools
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -36,4 +40,3 @@
 #### Containers & Pipeline
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-007A88?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-
