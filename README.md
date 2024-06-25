@@ -1,6 +1,6 @@
 # Hello, I'm Francesco D'Aleo
 ## Molecular and Cellular Biologist :dna: :petri_dish:
-### Aspiring Python Developer with interests in Data Science and Bioinformatics
+### Python Developer with interests in Data Science and Bioinformatics
 
 #### Web Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
